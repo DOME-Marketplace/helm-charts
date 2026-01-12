@@ -1,3 +1,21 @@
 apiVersion: v1
-entries: {}
-generated: "2026-01-12T13:00:51.9582571+01:00"
+entries:
+  api:
+  - apiVersion: v2
+    created: "2026-01-12T13:08:01.5518732+01:00"
+    digest: 5d7c0a02c2c942866e75f029a25620e29e3af7981862bed70396712fbfb9e538
+    name: api
+    type: application
+    urls:
+    - https://dome-marketplace.github.io/trust-framework/api-1.0.0.tgz
+    version: 1.0.0
+  portal:
+  - apiVersion: v2
+    created: "2026-01-12T13:08:01.5551635+01:00"
+    digest: d8f219d88b6fd1e42424f9afc4d57736b2da2909fbac496e5c15b4d75d00dd9f
+    name: portal
+    type: application
+    urls:
+    - https://dome-marketplace.github.io/trust-framework/portal-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-01-12T13:08:01.5462528+01:00"
