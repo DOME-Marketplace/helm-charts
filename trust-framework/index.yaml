@@ -7,7 +7,7 @@ entries:
     name: api
     type: application
     urls:
-    - https://dome-marketplace.github.io/trust-framework/api-1.0.0.tgz
+    - https://dome-marketplace.github.io/helm-charts/trust-framework/api-1.0.0.tgz
     version: 1.0.0
   portal:
   - apiVersion: v2
@@ -16,6 +16,6 @@ entries:
     name: portal
     type: application
     urls:
-    - https://dome-marketplace.github.io/trust-framework/portal-1.0.0.tgz
+    - https://dome-marketplace.github.io/helm-charts/trust-framework/portal-1.0.0.tgz
     version: 1.0.0
 generated: "2026-01-12T13:08:01.5462528+01:00"
