@@ -1,0 +1,7 @@
+repositories:
+ - name: "Trust Framework"
+   url: "https:/dome-marketplace.github.io/helm-charts/trust-framework"
+   related: 
+    - "https://github.com/DOME-Marketplace/trust-framework"
+    - "https://github.com/DOME-Marketplace/dome-trust-registry"
+    - "https://github.com/DOME-Marketplace/dome-trust-registries-ui"
